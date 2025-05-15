@@ -10,7 +10,7 @@ git clone https://github.com/TaghreedLouz/tic_tac_toe_game
 dart run
 
 3.  How to Play
-    -The game will ask you to choose your marker (X or O)
+    - The game will ask you to choose your marker (X or O)
     - Then choose if you want to play against AI 
     - Input a number betweenn 1 to 9 to place your marker on the board
     - The first player to align 3 markers (row, column, or diagonal) wins
